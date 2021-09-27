@@ -4,7 +4,7 @@ This Privacy Policy is for *quickMath* version 1.0.1 released on Google Play on 
 
 ### Introduction
 
-This Policy corresponds to the Android Application titled **"quickMath"** with the Package Name **"com.sda.quickmath"** released on Google Play Store by the Developer ***AndroDevSDA*** and is established to make our users aware of our access to their data on our application
+This Policy corresponds to the Android Application titled **"quickMath"** with the Package Name **"com.sda.quickmath"** released on Google Play Store by the Developer ***MoonLight Studio Apps*** and is established to make our users aware of our access to their data on our application
 
 ### What Information do we collect?
 
